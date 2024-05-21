@@ -3,6 +3,10 @@
 <br>
 <br>
 
+![image](https://github.com/MuHyeonSon/BME_Capstone_Design/assets/93263215/ecec937c-0ff8-4125-92ec-faf7be5f7cd6)
+![ecg수면단계분류전처리그림](https://github.com/MuHyeonSon/BME_Capstone_Design/assets/93263215/cea6ad13-3776-4843-9e08-4468bf6ce4ee)
+
+
 ![슬라이드1](https://user-images.githubusercontent.com/93263215/211205219-111faa96-869e-4918-af87-45029dcca65f.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/93263215/211205223-5e571e3d-ec78-44bf-a8a2-fe7eef39e189.JPG)
 ![슬라이드3](https://user-images.githubusercontent.com/93263215/211205226-4d808623-0960-400d-9635-598a748e0299.JPG)
